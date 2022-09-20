@@ -8,11 +8,12 @@ The objective of the project is to analyze Amazon reviews written by members of 
 
 # Resources
 Data: Amazon Review Datasets
-Software: Google Colab Notebook. PostgresSQL, pgAdmin4, Amazon Web Services AWS
+
+Software: Google Colab Notebook. PostgresSQL, pgAdmin4, Amazon Web Services AWS.
 
 
 # Results: 
-## PySpark was used to perform the ETL process to extract the dataset, transform the data, connect to AWS RDS instance, and then load the transformed data into pgAdmin and and calculate different metrics.
+PySpark was used to perform the ETL process to extract the dataset, transform the data, connect to AWS RDS instance, and then load the transformed data into pgAdmin and and calculate different metrics.
 
 ## Deliverable 1
 In this deliverable we did the following steps:
@@ -30,7 +31,7 @@ In this deliverable we did the following steps:
 ![review](https://github.com/acegal1/Amazon_Vine_Analysis/blob/main/images/review.jpg)
 
 ## Vine table
-![vine](https://github.com/acegal1/Amazon_Vine_Analysis/blob/main/images/view.jpg)
+![vine](https://github.com/acegal1/Amazon_Vine_Analysis/blob/main/images/vine.jpg)
 
 
 
