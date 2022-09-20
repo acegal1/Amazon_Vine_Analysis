@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+challenge.schema.sql
+
 # C extensions
 *.so
 
